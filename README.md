@@ -5,6 +5,7 @@
 In this project I had to control a TurtleBot robot in order to perform specific movements.
 
 📘 [The course] https://lnkd.in/dqscC_CT
+
 PD: You will probably need more than 5 days to finish it 😆
 
 🎬 [Presentation Video] https://buff.ly/3CFX5Ek
