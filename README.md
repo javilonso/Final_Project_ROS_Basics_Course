@@ -14,7 +14,7 @@ PD: You will probably need more than 5 days to finish it 😆
 
 🔗 [ROS website] https://www.ros.org/
 
-##🔰 WHAT IS #ROS ?
+## 🔰 WHAT IS #ROS ?
 
 ROS is an advanced open-source tool for building Robot Applications. You can use it to control Robots in Simulators or even in Reality. You can choose between #C++ and #Python to program in ROS.
 
