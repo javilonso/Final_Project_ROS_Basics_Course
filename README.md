@@ -1,8 +1,9 @@
 # Final Project ROS Basics Course
-![imagen](https://user-images.githubusercontent.com/31996659/129240648-ef23c12e-7d94-4377-9d67-e8d2518f9026.png)
 
 **✅ This repository contains my Final Project to finish the course "ROS Basics in 5 Days (Python)".
 In this project I had to control a TurtleBot robot in order to perform specific movements.**
+
+![imagen](https://user-images.githubusercontent.com/31996659/129240648-ef23c12e-7d94-4377-9d67-e8d2518f9026.png)
 
 📘 [**The course**] https://lnkd.in/dqscC_CT
 
