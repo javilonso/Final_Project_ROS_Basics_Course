@@ -4,17 +4,17 @@
 ✅ This repository contains my Final Project to finish the course "ROS Basics in 5 Days (Python)".
 In this project I had to control a TurtleBot robot in order to perform specific movements.
 
-📘 [The course] https://lnkd.in/dqscC_CT
+📘 [**The course**] https://lnkd.in/dqscC_CT
 
 PD: You will probably need more than 5 days to finish it 😆
 
-🎬 [Presentation Video] https://buff.ly/3CFX5Ek
+🎬 [**Presentation Video**] https://buff.ly/3CFX5Ek
 
 (Sorry for the low volume, use headphones 🎧)
 
-📜 [My certificate] https://lnkd.in/dhtYwkQH
+📜 [**My certificate**] https://lnkd.in/dhtYwkQH
 
-🔗 [ROS website] https://www.ros.org/
+🔗 [**ROS website**] https://www.ros.org/
 
 ## 🔰 WHAT IS #ROS ?
 
