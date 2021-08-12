@@ -9,6 +9,7 @@ In this project I had to control a TurtleBot robot in order to perform specific 
 PD: You will probably need more than 5 days to finish it 😆
 
 🎬 [Presentation Video] https://buff.ly/3CFX5Ek
+
 (Sorry for the low volume, use headphones 🎧)
 
 📜 [My certificate] https://lnkd.in/dhtYwkQH
